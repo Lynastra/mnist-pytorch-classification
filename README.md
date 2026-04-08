@@ -1,6 +1,6 @@
 # 🖼️ Классификация рукописных цифр на датасете MNIST
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/notebooks/mnist_classification.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eS1ee5auqWqpF7Bue3-0Dx9Tjj4RiNzt#scrollTo=CLMJ7Xl7mT1n)
 
 ## 📝 Описание проекта
 
@@ -65,6 +65,3 @@
     cd YOUR_REPO_NAME
     pip install -r requirements.txt
     jupyter notebook notebooks/mnist_classification.ipynb
-
-# Ссылка на Google Colab:
-https://colab.research.google.com/drive/1eS1ee5auqWqpF7Bue3-0Dx9Tjj4RiNzt#scrollTo=CLMJ7Xl7mT1n
