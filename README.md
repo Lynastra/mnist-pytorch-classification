@@ -2,7 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eS1ee5auqWqpF7Bue3-0Dx9Tjj4RiNzt#scrollTo=CLMJ7Xl7mT1n)
 
-## 📝 Описание проекта
+## Описание проекта
 
 Этот проект посвящен решению задачи классификации изображений рукописных цифр из датасета **MNIST** (Modified National Institute of Standards and Technology). Цель работы — сравнить несколько архитектур нейронных сетей и исследовать влияние различных методов регуляризации (BatchNorm, Dropout) на качество классификации и переобучение.
 
@@ -61,7 +61,7 @@
 
 1.  **Локальный запуск:**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+    git clone https://github.com/Lynastra/mnist-pytorch-classification.git
     cd YOUR_REPO_NAME
     pip install -r requirements.txt
-    jupyter notebook notebooks/mnist_classification.ipynb
+    jupyter notebook task_mnist_classification.ipynb
