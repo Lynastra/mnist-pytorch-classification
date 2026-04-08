@@ -1,4 +1,4 @@
-# 🖼️ Классификация рукописных цифр на датасете MNIST
+# Классификация рукописных цифр на датасете MNIST
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eS1ee5auqWqpF7Bue3-0Dx9Tjj4RiNzt#scrollTo=CLMJ7Xl7mT1n)
 
